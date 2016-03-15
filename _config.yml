@@ -1,0 +1,28 @@
+name: Florina Photography
+favicon: null
+layout_spectrum: 0.19611681648530066
+typography_spectrum: 0.9848549386952072
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.863785652210936
+  lightness: 0.3107013860717416
+  saturation: 0.14896416966803372
+  rhythmicContrast: 0.7675559241324663
+purpose: []
